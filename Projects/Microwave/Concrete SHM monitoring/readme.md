@@ -12,4 +12,4 @@ Antennas
 
 Measurement setup:
 ![filtri1](img/setup.jpg)
-![filtri2](img/plot.jpg)
+![filtri2](img/plot.png)
