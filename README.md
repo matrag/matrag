@@ -75,6 +75,12 @@ Other
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/acKZaNDEf8mszbDYyPvNuC.png" height="40" alt="awr logo"  />
+  <img width="12" />
+  <img src="https://www.keysight.com/content/dam/keysight/en/img/gnav/keysight-logo.svg" height="40" alt="awr logo"  />
+  <img width="12" />
+  <img src="https://altair.com/images/default-source/default-album/footerlogo.svg?sfvrsn=a60763c_2" height="40" alt="awr logo"  />
 </div>
 
 ###
