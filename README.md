@@ -23,15 +23,19 @@
 
 ###
 
-<p align="left">
-:computer: Embedded systems
-  
-###
-  
-📡 RF and microwave
+📡 <a href="Projects/Microwave"> RF and microwave </a>
   
 ###
 
+<p align="left">
+:computer: <a href="Projects/Embedded systems">Embedded systems</a>
+  
+###
+
+:computer: <a href="Projects/Signal integrity">Signal Integrity</a>
+
+###
+  
 Other
 </p>
 
