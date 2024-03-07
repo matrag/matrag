@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Mattia from Italy. This is a short overview of some works and projects carried on during the last years.<br><br>- 🔭 I’m working at University of L'Aquila.<br>- 📚 I'm currently in the last year pf PhD in electronic engineering.</p>
+<p align="left">I'm Mattia from Italy. This is a short overview of some works and projects carried on during the last years.<br><br>- 🔭 I’m working at University of L'Aquila.<br>- 📚 I'm currently in the last year of PhD in electronic engineering.</p>
 
 ###
 
