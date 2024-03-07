@@ -1,8 +1,7 @@
 <h2>Overview</h2>
-This project was carried on during the course of "Antenna and microwaves".
-The objective was to realize resonators using coupled resonators.
+This project dealt with the design of a 5 GHz oscillator using dielectric resonators.
 
-The resonators were designed using FEKO, and realized on glass substrate using ink deposition.
+The circuit was designed using AWR Microwave Office, and realized TLX-8 using cnc milling.
 The folder contains some images and measurements.
 
 Some images:
