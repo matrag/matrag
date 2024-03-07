@@ -3,7 +3,3 @@ This project dealt with the analysis of Channel Operating Margin (COM) for high 
 The COM matlab code was analyzed to find how the Effective Return Loss (ERL) is calculated.
 The pdf contains a short presentation.
 
-Some images:
-
-![filtri](img/stackup.svg)
-![filtri](img/Zin_compar.svg)
