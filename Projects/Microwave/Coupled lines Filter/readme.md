@@ -10,4 +10,4 @@ Some images:
 
 Simulated vs realized:
 ![filtri1](img/n4.png)
-![filtri2](img/n5png)
+![filtri2](img/n5.png)
