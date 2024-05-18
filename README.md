@@ -83,6 +83,9 @@ Other
   <img src="https://altair.com/images/default-source/default-album/footerlogo.svg?sfvrsn=a60763c_2" height="40" alt="awr logo"  />
   <img width="12" />
   <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" height="40" alt="awr logo"  />
+  <img width="12" />
+  <img src="https://nodejs.org/static/logos/nodejsLight.svg" height="40" alt="awr logo"  />
+
 </div>
 
 ###
