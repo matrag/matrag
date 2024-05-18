@@ -81,6 +81,8 @@ Other
   <img src="https://www.keysight.com/content/dam/keysight/en/img/gnav/keysight-logo.svg" height="40" alt="awr logo"  />
   <img width="12" />
   <img src="https://altair.com/images/default-source/default-album/footerlogo.svg?sfvrsn=a60763c_2" height="40" alt="awr logo"  />
+  <img width="12" />
+  <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" height="40" alt="awr logo"  />
 </div>
 
 ###
