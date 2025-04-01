@@ -1,22 +1,10 @@
-![Immagine1](https://github.com/matrag/matrag/assets/49486126/7b190716-f92c-408c-a70b-a28f8ee047e6)
-<h3 align="center">Hey there 👋</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mattia-ragnoli-12010919a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h4 align="left">👩‍💻  About Me</h4>
 
 ###
 
-<p align="left">I'm Mattia from Italy. This is a short overview of some works and projects carried on during the last years.<br><br>- 🔭 I’m working at University of L'Aquila.<br>- 📚 I'm currently in the last year of PhD in electronic engineering.</p>
-
+<p align="left">This is a short overview of some works and projects.<br><br>
 ###
 
 <h4 align="left">🛠 Some projects</h4>
